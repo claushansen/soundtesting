@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<Label id="label" onTouchstart="doClickLong"  mhz="250" on>Play sounds</Label>
+		<Label id="result">test</Label>
+	</Window>
+</Alloy>
